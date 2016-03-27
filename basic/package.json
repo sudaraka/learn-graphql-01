@@ -1,0 +1,19 @@
+{
+  "name": "learn-graphql",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node main.js",
+    "start": "node server.js"
+  },
+  "author": "Sudaraka Wijesinghe <sudaraka@sudaraka.org> (https://sudaraka.org/)",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "axios": "^0.9.1",
+    "dataloader": "^1.1.0",
+    "express": "^4.13.4",
+    "express-graph.ql": "^1.0.1",
+    "graph.ql": "^1.2.0"
+  }
+}
